@@ -1,0 +1,3 @@
+blob store can be created and later when a repository is created it can be assigned to this blob store.
+Therefore this repositroy will reside in that particualar store.
+
